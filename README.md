@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br><br>👋 Hi, I'm Amit Singh — a CSE undergrad<br><br>🔭 I’m currently working on<br>- Small projects to strengthen my programming basics<br>- Practicing logic building using C++<br>- I have worked on Full stack web Development Project, Contributed in Open Source<br><br>🤝 I’m looking to collaborate on<br>- Beginner-friendly projects<br>- Open-source projects for learning<br><br>🧠 I’m looking for help with<br>- Understanding core programming concepts deeply<br>- Improving problem-solving skills<br><br>🌱 I’m currently learning<br>- Data Structures & Algorithms (C++)<br>- Advance of web development<br>- Networking and Cybersecurity<br><br>💬 Ask me about<br>- C++ basics<br>- Programming fundamentals<br>- Moden AI<br>- Generative AI<br><br>⚡ Fun fact<br>- I focus on building strong fundamentals instead of rushing into frameworks<br>- I enjoy solving problems and breaking them down into simple logical steps
+# 💫 About Me<br><br>🚀 **Amit Singh | CSE Undergrad | Builder Mindset**<br><br>- 🧠 **Core Focus:** Strong fundamentals > shortcuts  <br>- 💻 **Current Work:**  <br>  → Building small projects to master programming logic  <br>  → Practicing DSA using C++  <br>  → Exploring Full Stack Development + Open Source  <br><br>- ⚔️ **Learning Mission:**  <br>  → Data Structures & Algorithms (C++)  <br>  → Advanced Web Development  <br>  → Networking & Cybersecurity  <br><br>- 🤝 **Open To:**  <br>  → Beginner-friendly collaborations  <br>  → Open-source contributions  <br><br>- 💬 **Can Help With:**  <br>  → C++ fundamentals  <br>  → Logic building  <br>  → Programming basics  <br><br>- ⚡ **Mindset:**  <br>  → Break problems → Build logic → Scale solutions  <br>  → Discipline over motivation  
 
 
 ## 🌐 Socials:
@@ -15,11 +15,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iamamits&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=iamamits&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@codexamit) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/codexamit) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
