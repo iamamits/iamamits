@@ -1,17 +1,16 @@
-<!-- ═══════════ HEADER ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=230&section=header&text=Amit%20Singh&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Founder%20%E2%80%A2%20CSE%20Undergrad&descSize=18&descAlignY=58" width="100%" alt="header" />
+<img src="assets/header.svg" width="100%" alt="Amit Singh - Full-Stack Developer, Founder, CSE Undergrad" />
 
 <a href="https://github.com/Iamamits">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=720&height=45&lines=Building+EduSaarthi+%E2%80%94+a+School+ERP+SaaS;Founder+%40+Alethron+Solutions;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL;Strong+fundamentals+%3E+shortcuts;Discipline+over+motivation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=45&lines=Building+EduSaarthi+%E2%80%94+a+School+ERP+SaaS;Founder+%40+Alethron+Solutions;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL;Strong+fundamentals+%3E+shortcuts;Discipline+over+motivation" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Iamamits&label=Profile+Views&color=0e75b6&style=flat-square" alt="views" />
-<img src="https://img.shields.io/github/followers/Iamamits?style=flat-square&logo=github&color=181717" alt="followers" />
-<img src="https://img.shields.io/badge/Open%20to-Internships-00C853?style=flat-square" alt="open to internships" />
+<img src="https://komarev.com/ghpvc/?username=Iamamits&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/Iamamits?style=for-the-badge&logo=github&color=181717" alt="followers" />
+<img src="https://img.shields.io/badge/Open%20to-Internships-00C853?style=for-the-badge" alt="open to internships" />
 
 <br/><br/>
 
@@ -21,24 +20,19 @@
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech CSE student at NIET (2029)** who builds real products instead of just tutorial clones. I run **Alethron Solutions** and ship **EduSaarthi**, a live multi-tenant School ERP, solo, from architecture to deployment.
+<div align="center">
+  <img src="assets/terminal.svg" width="100%" alt="About me terminal" />
+</div>
 
-```ts
-const amit = {
-  role: "Full-Stack Developer & Founder",
-  education: "B.Tech CSE @ NIET (2029)",
-  building: ["EduSaarthi ERP", "Dhanwala", "AI agents"],
-  learning: ["DSA", "System Design", "Cybersecurity", "Applied AI"],
-  goal: "SDE internship → product-based company",
-  mindset: "Break problems → Build logic → Scale solutions",
-};
-```
+<br/>
 
----
+I'm a **B.Tech CSE student at NIET (2029)** who builds real products instead of tutorial clones. I run **Alethron Solutions** and ship **EduSaarthi**, a live School ERP, solo, from architecture to deployment.
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🚀 Featured Projects
 
@@ -46,12 +40,12 @@ const amit = {
   <tr>
     <td width="50%" valign="top">
       <h3>🏫 EduSaarthi — School Management ERP</h3>
-      <p>Enterprise-grade, multi-tenant SaaS for schools. Built and shipped solo under Alethron Solutions. Modular monolith with a deliberately lean six-role access model.</p>
+      <p>Enterprise-grade SaaS for schools, built and shipped solo under Alethron Solutions. Modular monolith with a deliberately lean six-role access model and Postgres row-level security.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=nextdotjs" />
         <img src="https://img.shields.io/badge/Fastify-000?style=flat-square&logo=fastify" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL_RLS-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Redis_+_BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white" />
         <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
       </p>
@@ -62,7 +56,7 @@ const amit = {
       <p>Investor management platform built for Nivestra Capital, handling investor data and operations in one place.</p>
       <p>
         <!-- TODO: add the real stack badges -->
-        <img src="https://img.shields.io/badge/Production-Live-00C853?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Live-00C853?style=flat-square" />
       </p>
       <a href="https://dhanwala.in"><b>🔗 Live → dhanwala.in</b></a>
     </td>
@@ -82,14 +76,14 @@ const amit = {
       <h3>🛡️ Security & Fundamentals</h3>
       <p>Completed an 8-week <b>Ethical Hacking virtual internship</b> (EduSkills Academy, 2026). Currently grinding DSA and networking fundamentals.</p>
       <p>
-        <img src="https://img.shields.io/badge/Ethical_Hacking-Certified-0F172A?style=flat-square" />
+        <img src="https://img.shields.io/badge/Ethical_Hacking-Internship-0F172A?style=flat-square" />
         <img src="https://img.shields.io/badge/DSA-In_Progress-F59E0B?style=flat-square" />
       </p>
     </td>
   </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🛠️ Tech Stack
 
@@ -112,7 +106,7 @@ const amit = {
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 📊 GitHub Analytics
 
@@ -125,18 +119,9 @@ const amit = {
 
 <img src="https://streak-stats.demolab.com/?user=Iamamits&theme=tokyonight&hide_border=true" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Iamamits&theme=tokyo-night&hide_border=true&area=true&radius=10" width="100%" />
-
-<br/>
-
-<!-- Needs the snake.yml workflow (see setup notes). Delete this block if you skip it. -->
-<img src="https://raw.githubusercontent.com/Iamamits/Iamamits/output/github-snake-dark.svg" alt="snake" />
-
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🎯 Currently
 
@@ -151,17 +136,12 @@ const amit = {
 - Open-source contributions
 - Beginner-friendly collaborations
 
-## ⚡ Philosophy
-
-> *Break problems → Build logic → Scale solutions.*
-> *Discipline over motivation.*
-
----
-
 <div align="center">
+
+<br/>
 
 <a href="https://buymeacoffee.com/harrybuilds"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer" width="100%" />
+<img src="assets/footer.svg" width="100%" alt="Let's build something great" />
 
 </div>
