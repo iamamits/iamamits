@@ -8,7 +8,15 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Iamamits&label=PROFILE+VIEWS&color=238636&style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Iamamits?label=FOLLOWERS&logo=github&style=for-the-badge" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Iamamits?label=STARS&style=for-the-badge" alt="GitHub Stars" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILDER-OPEN%20SOURCE-238636?style=for-the-badge&logo=github" alt="Open Source Builder" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20SYSTEMS-8250df?style=for-the-badge" alt="AI and Systems" />
+</p>
 <img src="https://img.shields.io/badge/Open%20to-Internships-238636?style=for-the-badge" alt="open to internships" />
 
 <br/><br/>
