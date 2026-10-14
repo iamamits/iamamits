@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Iamamits&label=Profile+Views&color=238636&style=for-the-badge" alt="views" />
+![Profile Views](https://komarev.com/ghpvc/?username=Iamamits&label=Profile%20Views&color=238636&style=for-the-badge)
 <img src="https://img.shields.io/github/followers/Iamamits?style=for-the-badge&logo=github&color=181717" alt="followers" />
 <img src="https://img.shields.io/badge/Open%20to-Internships-238636?style=for-the-badge" alt="open to internships" />
 
@@ -28,7 +28,7 @@ Not screenshots. A GitHub Action pings my live products every 30 minutes and ren
 
 <div align="center">
 <a href="https://edusaarthi.app">
-  <img src="https://raw.githubusercontent.com/Iamamits/Iamamits/status/status.svg" width="100%" alt="Live production status of EduSaarthi and Dhanwala" />
+  <img src="assets/edusaarthi.png" width="100%" alt="Live production status of EduSaarthi and Dhanwala" />
 </a>
 </div>
 
