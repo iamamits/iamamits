@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3DIamamits&query=count&label=Profile%20Views&color=238636&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Iamamits&label=PROFILE+VIEWS&color=238636&style=for-the-badge)
 <img src="https://img.shields.io/badge/Open%20to-Internships-238636?style=for-the-badge" alt="open to internships" />
 
 <br/><br/>
