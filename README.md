@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Iamamits&label=Profile%20Views&color=238636&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Iamamits&style=flat-square&color=238636)
 <img src="https://img.shields.io/github/followers/Iamamits?style=for-the-badge&logo=github&color=181717" alt="followers" />
 <img src="https://img.shields.io/badge/Open%20to-Internships-238636?style=for-the-badge" alt="open to internships" />
 
