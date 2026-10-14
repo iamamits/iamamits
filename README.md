@@ -1,38 +1,38 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Amit Singh - Full-Stack Developer, Founder, CSE Undergrad" />
+<img src="assets/boot.svg" width="100%" alt="Amit Singh - Full-Stack Developer and Founder" />
 
 <a href="https://github.com/Iamamits">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=45&lines=Building+EduSaarthi+%E2%80%94+a+School+ERP+SaaS;Founder+%40+Alethron+Solutions;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL;Strong+fundamentals+%3E+shortcuts;Discipline+over+motivation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=3FB950&center=true&vCenter=true&width=780&height=45&lines=Building+EduSaarthi+%E2%80%94+a+School+ERP+SaaS;Founder+%40+Alethron+Solutions;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL;Strong+fundamentals+%3E+shortcuts;Discipline+over+motivation" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Iamamits&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=Iamamits&label=Profile+Views&color=238636&style=for-the-badge" alt="views" />
 <img src="https://img.shields.io/github/followers/Iamamits?style=for-the-badge&logo=github&color=181717" alt="followers" />
-<img src="https://img.shields.io/badge/Open%20to-Internships-00C853?style=for-the-badge" alt="open to internships" />
+<img src="https://img.shields.io/badge/Open%20to-Internships-238636?style=for-the-badge" alt="open to internships" />
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/harrybuilds"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:amitedge69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://buildwithamit.me"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:amitedge69@gmail.com?subject=sudo%20hire%20amit"><img src="https://img.shields.io/badge/sudo-hire%20amit-238636?style=for-the-badge&logo=gnubash&logoColor=white" alt="sudo hire amit" /></a>
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/line.svg" width="100%" alt="" />
 
-## 👨‍💻 About Me
+## 🟢 Live in Production
+
+Not screenshots. A GitHub Action pings my live products every 30 minutes and renders this card.
 
 <div align="center">
-  <img src="assets/terminal.svg" width="100%" alt="About me terminal" />
+<a href="https://edusaarthi.app">
+  <img src="https://raw.githubusercontent.com/Iamamits/Iamamits/status/status.svg" width="100%" alt="Live production status of EduSaarthi and Dhanwala" />
+</a>
 </div>
 
-<br/>
-
-I'm a **B.Tech CSE student at NIET (2029)** who builds real products instead of tutorial clones. I run **Alethron Solutions** and ship **EduSaarthi**, a live School ERP, solo, from architecture to deployment.
-
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/line.svg" width="100%" alt="" />
 
 ## 🚀 Featured Projects
 
@@ -49,16 +49,16 @@ I'm a **B.Tech CSE student at NIET (2029)** who builds real products instead of 
         <img src="https://img.shields.io/badge/Redis_+_BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white" />
         <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
       </p>
-      <a href="https://edusaarthi.app"><b>🔗 Live → edusaarthi.app</b></a>
+      <a href="https://edusaarthi.app"><b>🔗 edusaarthi.app</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>📈 Dhanwala — Investor Management Platform</h3>
       <p>Investor management platform built for Nivestra Capital, handling investor data and operations in one place.</p>
       <p>
         <!-- TODO: add the real stack badges -->
-        <img src="https://img.shields.io/badge/Status-Live-00C853?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Live-238636?style=flat-square" />
       </p>
-      <a href="https://dhanwala.in"><b>🔗 Live → dhanwala.in</b></a>
+      <a href="https://dhanwala.in"><b>🔗 dhanwala.in</b></a>
     </td>
   </tr>
   <tr>
@@ -77,13 +77,34 @@ I'm a **B.Tech CSE student at NIET (2029)** who builds real products instead of 
       <p>Completed an 8-week <b>Ethical Hacking virtual internship</b> (EduSkills Academy, 2026). Currently grinding DSA and networking fundamentals.</p>
       <p>
         <img src="https://img.shields.io/badge/Ethical_Hacking-Internship-0F172A?style=flat-square" />
-        <img src="https://img.shields.io/badge/DSA-In_Progress-F59E0B?style=flat-square" />
+        <img src="https://img.shields.io/badge/DSA-In_Progress-D29922?style=flat-square" />
       </p>
     </td>
   </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/line.svg" width="100%" alt="" />
+
+## 🧠 How EduSaarthi Is Built
+
+```mermaid
+flowchart LR
+    U([Browser]) --> N[Next.js 15]
+    N --> F[Fastify API<br/>TypeScript + Zod]
+    F --> P[(PostgreSQL<br/>row-level security)]
+    F --> R[(Redis)]
+    R --> Q[BullMQ workers]
+    F --> S[(Cloudflare R2<br/>file storage)]
+    D{{Doppler<br/>secrets}} -.-> F
+    classDef edge fill:#0d1117,stroke:#3fb950,color:#c9d1d9
+    classDef data fill:#0d1117,stroke:#58a6ff,color:#c9d1d9
+    class N,F,Q edge
+    class P,R,S data
+```
+
+**Design choices:** modular monolith over premature microservices, tenant isolation enforced in the database with row-level security, background jobs on a queue instead of the request path, and a six-role access model instead of a bloated 17-role design.
+
+<img src="assets/line.svg" width="100%" alt="" />
 
 ## 🛠️ Tech Stack
 
@@ -99,29 +120,26 @@ I'm a **B.Tech CSE student at NIET (2029)** who builds real products instead of 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis&theme=dark" /><br/><br/>
 
 **Cloud & DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,digitalocean,nginx,git,github&theme=dark" /><br/><br/>
-
-**Creative**<br/>
-<img src="https://skillicons.dev/icons?i=ae&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,digitalocean,nginx,git,github&theme=dark" />
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/line.svg" width="100%" alt="" />
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=Iamamits&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Iamamits&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=Iamamits&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Iamamits&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Iamamits&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Iamamits&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/line.svg" width="100%" alt="" />
 
 ## 🎯 Currently
 
@@ -130,18 +148,12 @@ I'm a **B.Tech CSE student at NIET (2029)** who builds real products instead of 
 - 🔐 Going deeper into **cybersecurity** and **applied AI engineering**
 - 🌱 Targeting a **software development internship** this year
 
-## 🤝 Open To
-
-- Internship opportunities
-- Open-source contributions
-- Beginner-friendly collaborations
+**Open to:** internships · open-source contributions · beginner-friendly collaborations
 
 <div align="center">
 
-<br/>
-
-<a href="https://buymeacoffee.com/harrybuilds"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
-
-<img src="assets/footer.svg" width="100%" alt="Let's build something great" />
+<a href="mailto:amitedge69@gmail.com?subject=Let%27s%20build%20something">
+  <img src="assets/outro.svg" width="100%" alt="Thanks for visiting - let's build something great" />
+</a>
 
 </div>

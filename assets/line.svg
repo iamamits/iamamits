@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 24" width="100%" role="img" aria-label="divider">
+<defs><filter id="g"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<line x1="0" y1="12" x2="1000" y2="12" stroke="#30363d" stroke-width="2" stroke-dasharray="6 6"/>
+<rect y="8" width="10" height="8" rx="2" fill="#00ff9c" filter="url(#g)"><animate attributeName="x" from="-20" to="1010" dur="3.0s" begin="-0.0s" repeatCount="indefinite"/></rect><rect y="8" width="10" height="8" rx="2" fill="#58a6ff" filter="url(#g)"><animate attributeName="x" from="-20" to="1010" dur="4.5s" begin="-1.3s" repeatCount="indefinite"/></rect><rect y="8" width="10" height="8" rx="2" fill="#3fb950" filter="url(#g)"><animate attributeName="x" from="-20" to="1010" dur="6.0s" begin="-2.6s" repeatCount="indefinite"/></rect>
+</svg>

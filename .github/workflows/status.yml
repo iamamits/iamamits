@@ -1,0 +1,34 @@
+name: Live Status
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Load previous history (if any)
+        run: curl -fsSL "https://raw.githubusercontent.com/${{ github.repository }}/status/status.json" -o status.json || echo '{}' > status.json
+
+      - name: Ping sites and render card
+        run: node scripts/status.mjs
+
+      - name: Publish to status branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: status
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
