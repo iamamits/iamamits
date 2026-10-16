@@ -41,54 +41,100 @@ Not screenshots. A GitHub Action pings my live products every 30 minutes and ren
 
 <img src="assets/line.svg" width="100%" alt="" />
 
-## 🚀 Featured Projects
+## 🚀 Project Showcase
+
+A curated index of my projects across AI, developer tooling, scientific computing, cybersecurity, education, and full-stack products. Each card links to the source repository; live/demo links are included only where a URL is documented.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏫 EduSaarthi — School Management ERP</h3>
-      <p>Enterprise-grade SaaS for schools, built and shipped solo under Alethron Solutions. Modular monolith with a deliberately lean six-role access model and Postgres row-level security.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/Fastify-000?style=flat-square&logo=fastify" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis_+_BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-      </p>
-      <a href="https://edusaarthi.app"><b>🔗 edusaarthi.app</b></a>
+      <h3>🔬 Prismora Virtual Lab</h3>
+      <p>Open-source scientific simulation and engineering virtual laboratory with interactive ECE experiments, projectile physics, a RISC-V CPU and pipeline simulator, cache visualization, automata workbenches, and a dedicated TypeScript simulation core.</p>
+      <p><a href="https://github.com/iamamits/Prismora-Virtual-Lab">Source code ↗</a> · <a href="https://github.com/iamamits/Prismora-Virtual-Lab#-virtual-laboratories">Explore labs ↗</a></p>
+      <p><img src="https://img.shields.io/badge/Next.js-16-000?style=flat-square&logo=nextdotjs" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Scientific%20Simulation-2563EB?style=flat-square" /></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📈 Dhanwala — Investor Management Platform</h3>
-      <p>Investor management platform built for Nivestra Capital, handling investor data and operations in one place.</p>
-      <p>
-        <!-- TODO: add the real stack badges -->
-        <img src="https://img.shields.io/badge/Status-Live-238636?style=flat-square" />
-      </p>
-      <a href="https://dhanwala.in"><b>🔗 dhanwala.in</b></a>
+      <h3>🧠 BlackBox — AI Repository Reverse Engineer</h3>
+      <p>AI-assisted codebase intelligence: AST symbol extraction, interactive 2D/3D architecture visualization, dependency impact analysis, token-aware context compilation for coding agents, and sandboxed patch verification.</p>
+      <p><a href="https://github.com/iamamits/BlackBox---AI-Repository-Reverse-Engineer">Source code ↗</a> · <a href="https://github.com/iamamits/BlackBox---AI-Repository-Reverse-Engineer#-platform-interface--screenshots">View screenshots ↗</a></p>
+      <p><img src="https://img.shields.io/badge/Next.js-16-000?style=flat-square&logo=nextdotjs" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/AI%20Developer%20Tools-8250df?style=flat-square" /></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Job Hunt Agent</h3>
-      <p>Autonomous agent that scores resume-to-job fit, ranks postings and drafts tailored cover letters. Submitted to the <i>Agents for Humans</i> hackathon on Devpost.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/OpenRouter-6366F1?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel" />
-      </p>
-      <!-- TODO: add repo / demo link -->
+      <h3>🛡️ CyberShield</h3>
+      <p>Educational automata-based web security pattern analyzer demonstrating regex compilation, ε-NFA/NFA/DFA construction, minimization, transition tracing, and visual algorithm explanations.</p>
+      <p><a href="https://github.com/iamamits/CyberShield-Automata-Based-Web-Security-Analyzer">Source code ↗</a></p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Formal%20Methods-0F766E?style=flat-square" /></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ Security & Fundamentals</h3>
-      <p>Completed an 8-week <b>Ethical Hacking virtual internship</b> (EduSkills Academy, 2026). Currently grinding DSA and networking fundamentals.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Ethical_Hacking-Internship-0F172A?style=flat-square" />
-        <img src="https://img.shields.io/badge/DSA-In_Progress-D29922?style=flat-square" />
-      </p>
+      <h3>💻 Inside the CPU</h3>
+      <p>Interactive computer architecture simulator for assembly execution, datapath and control signals, registers, cache/RAM behavior, pipeline stages, hazards, and guided experiments.</p>
+      <p><a href="https://github.com/iamamits/Inside-the-CPU-Interactive-Computer-Architecture-Simulator">Source code ↗</a></p>
+      <p><img src="https://img.shields.io/badge/Vanilla%20JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111" /> <img src="https://img.shields.io/badge/Computer%20Architecture-2563EB?style=flat-square" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 EduSaarthi</h3>
+      <p>School management ERP/SaaS initiative covering school operations, role-aware access, tenant isolation, and a modular web/API architecture.</p>
+      <p><a href="https://github.com/iamamits/Edusaarthi">Repository ↗</a> · <a href="https://edusaarthi.app">Website ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Dhanwala Platform</h3>
+      <p>Investor-management platform project. The repository is listed here as a source-code entry; production details are not inferred from repository name alone.</p>
+      <p><a href="https://github.com/iamamits/Dhanwala_Platform">Repository ↗</a> · <a href="https://dhanwala.in">Website ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽️ PlatePulse</h3>
+      <p>AI-assisted multi-hostel mess review platform with role-aware dashboards, hostel/student/menu management, feedback collection, and sentiment/analytics endpoints.</p>
+      <p><a href="https://github.com/iamamits/Plate_Pulse_Frontend">Frontend ↗</a> · <a href="https://github.com/iamamits/Plate_Pulse_Backend">Backend ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎙️ Mini Jarvis</h3>
+      <p>Voice-driven AI assistant prototype with multilingual commands, multi-provider AI routing, speech recognition, text-to-speech, memory, and task tracking.</p>
+      <p><a href="https://github.com/iamamits/Mini_Jarvis">Source code ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧰 Modelverse / MCC</h3>
+      <p>Local multi-provider AI proxy and browser command centre for configuring model providers and routing Claude Code/Codex-style developer CLIs.</p>
+      <p><a href="https://github.com/iamamits/Modelverse">Source code ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🇯🇵 KanaDojo</h3>
+      <p>Japanese learning and typing practice platform for Hiragana, Katakana, Kanji, and vocabulary with a customizable training interface.</p>
+      <p><a href="https://github.com/iamamits/kana-dojo">Source code ↗</a> · <a href="https://kanadojo.com">Live demo ↗</a></p>
     </td>
   </tr>
 </table>
+
+### More repositories
+
+| Project | What it explores | Links |
+|---|---|---|
+| **AI Job Hunt** | AI-assisted job search and application workflow | [Repository](https://github.com/iamamits/Ai-Job-Hunt) |
+| **Free Claude Code** | Provider-backed proxy for Claude Code and Codex-style CLI workflows | [Repository](https://github.com/iamamits/free-claude-code) |
+| **Fast2SMS Bridge** | SMS integration/bridge tooling | [Repository](https://github.com/iamamits/fast2sms-bridge) |
+| **C Program Collection** | C programming examples and fundamentals | [Repository](https://github.com/iamamits/C-program-collection) |
+| **Kids Zone** | Education-related project repository | [Private repository](https://github.com/iamamits/Kids_Zone) |
+| **Evidyalya** | Education product — frontend and backend repositories | [Frontend](https://github.com/iamamits/Evidyalya_Frontend) · [Backend](https://github.com/iamamits/Evidyalya_Backend) |
+| **Edusphere** | Education platform — frontend and backend repositories | [Frontend](https://github.com/iamamits/Edusphere_Frontend) · [Backend](https://github.com/iamamits/Edusphere_Backend) |
+| **Talent Hunt Exam** | Exam/LMS platform project | [Repository](https://github.com/iamamits/Talent_Hunt_Exam) |
+| **Alethron Solutions** | Company/organization project space | [Repository](https://github.com/iamamits/Alethron-Solutions) |
+| **BDBS** | School website/project repository | [Private repository](https://github.com/iamamits/BDBS) |
+| **Chirp SMS** | Messaging/SMS-related product repository | [Private repository](https://github.com/iamamits/Chirp_SMS) |
+| **SnapScript** | Developer/productivity experiment | [Private repository](https://github.com/iamamits/snapscript) |
+| **Learning JS** | JavaScript learning material and experiments | [Private repository](https://github.com/iamamits/Learning-JS) |
+| **Saarthi Tech Solution** | Company/product workspace | [Private repository](https://github.com/iamamits/saarthitechsolution) |
+| **BuildWithAmit** | Developer/portfolio project | [Private repository](https://github.com/iamamits/buildwithamit) |
+| **Personal Website** | GitHub Pages repository | [Repository](https://github.com/iamamits/iamamits.github.io) |
+| **Test** | General experiments and tests | [Repository](https://github.com/iamamits/test) |
+
+> **Live links policy:** A repository link proves the source exists, not that a deployment is currently online. Demo URLs above are shown only where documented in existing project/profile information. Other projects remain linked to their repositories until a real deployment URL can be confirmed.
 
 <img src="assets/line.svg" width="100%" alt="" />
 
